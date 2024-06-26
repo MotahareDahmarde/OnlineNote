@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "848415631060",
+    "firebase_url": "https://online-note-c43e2-default-rtdb.firebaseio.com",
+    "project_id": "online-note-c43e2",
+    "storage_bucket": "online-note-c43e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848415631060:android:f8c5b9a99f1dc4c57cbd41",
+        "android_client_info": {
+          "package_name": "ir.shariaty.online_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "848415631060-9ujvokagspq1c1mjoc0b6lmvs3j4jr7i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.shariaty.online_note",
+            "certificate_hash": "a1a79fb82a0c060e925f317f0c2f4fc41dc27c94"
+          }
+        },
+        {
+          "client_id": "848415631060-dbk4t7an95s2mi6i2d290ojtoprmr603.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtxaoUo9ezqSHgb9TCUmCED4RPSaH_QpY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "848415631060-dbk4t7an95s2mi6i2d290ojtoprmr603.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
